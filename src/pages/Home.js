@@ -138,14 +138,14 @@ const Home = () => {
 
             <div className="swiper-button image-swiper-button-prev absolute">
               <img
-                src="https://www.starbucks.in/swiperbtnleft.22de7f3e8db5d523.svg"
+                src="https://www.starbucks.in/media/swiperbtnleft-ELPH6PUN.svg"
                 alt="prev"
               />
             </div>
 
             <div className="swiper-button image-swiper-button-next absolute">
               <img
-                src="https://www.starbucks.in/swiperbtnright.cbc1d309941ecd98.svg"
+                src="https://www.starbucks.in/media/swiperbtnright-ZPA5GCMU.svg"
                 alt="next"
               ></img>
             </div>
