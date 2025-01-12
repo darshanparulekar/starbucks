@@ -11,7 +11,7 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
  
-# **Install Jenkins on Ubuntu:**
+# **Install Jenkins on Ubuntu:-**
 
 ```
 #!/bin/bash
